@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>VerdeVivo - Ecommerce de Eletrônicos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="top-bar">
+      <div class="brand">
+        <span class="logo">VerdeVivo</span>
+        <p>Ecommerce naturalista de eletrônicos premium</p>
+      </div>
+      <nav class="top-actions">
+        <button class="ghost" id="wishlist-btn">Favoritos</button>
+        <button class="solid" id="cart-toggle">Carrinho (<span id="cart-count">0</span>)</button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div>
+          <span class="pill">Entrega carbono neutro</span>
+          <h1>Tecnologia que respeita o ritmo da natureza.</h1>
+          <p>
+            Descubra celulares, tablets e computadores com design elegante, eficiência energética e
+            suporte dedicado para toda a jornada.
+          </p>
+          <div class="hero-actions">
+            <button class="solid" id="explore-btn">Explorar novidades</button>
+            <button class="ghost" id="consulting-btn">Agendar consultoria</button>
+          </div>
+        </div>
+        <div class="hero-card">
+          <h3>Serviços essenciais</h3>
+          <ul>
+            <li>Pagamento seguro e parcelado</li>
+            <li>Assistência premium 24/7</li>
+            <li>Trocas sem burocracia</li>
+            <li>Seguro contra danos acidentais</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="filters">
+        <div class="search">
+          <input type="text" id="search-input" placeholder="Busque por produtos, marcas e recursos" />
+          <button class="solid" id="search-btn">Buscar</button>
+        </div>
+        <div class="category-chips" id="category-chips"></div>
+      </section>
+
+      <section class="featured">
+        <div class="section-header">
+          <h2>Destaques sustentáveis</h2>
+          <p>Seleção especial com os eletrônicos mais desejados e eco eficientes.</p>
+        </div>
+        <div class="featured-grid" id="featured-grid"></div>
+      </section>
+
+      <section class="catalog">
+        <div class="section-header">
+          <h2>Catálogo completo</h2>
+          <p>Compare especificações, veja avaliações e adicione ao carrinho com um toque.</p>
+        </div>
+        <div class="products-grid" id="products-grid"></div>
+      </section>
+
+      <section class="services">
+        <div class="service-card">
+          <h3>Assinatura VerdeCare</h3>
+          <p>Atualização de aparelhos com recompra garantida e suporte em todo o Brasil.</p>
+        </div>
+        <div class="service-card">
+          <h3>Setup Corporativo</h3>
+          <p>Planos para empresas com notebooks e tablets configurados sob medida.</p>
+        </div>
+        <div class="service-card">
+          <h3>Entrega Expressa</h3>
+          <p>Receba em até 48h com logística inteligente nas principais capitais.</p>
+        </div>
+      </section>
+
+      <section class="newsletter">
+        <div>
+          <h2>Receba tendências com frescor</h2>
+          <p>Inscreva-se para receber lançamentos, conteúdos e ofertas exclusivas.</p>
+        </div>
+        <form id="newsletter-form">
+          <input type="email" placeholder="seuemail@exemplo.com" required />
+          <button class="solid" type="submit">Quero receber</button>
+        </form>
+      </section>
+    </main>
+
+    <aside class="cart" id="cart">
+      <div class="cart-header">
+        <h2>Seu carrinho</h2>
+        <button class="ghost" id="close-cart">Fechar</button>
+      </div>
+      <div id="cart-items" class="cart-items"></div>
+      <div class="cart-summary">
+        <div>
+          <span>Total</span>
+          <strong id="cart-total">R$ 0</strong>
+        </div>
+        <button class="solid" id="checkout-btn">Finalizar compra</button>
+        <p class="hint" id="checkout-message"></p>
+      </div>
+    </aside>
+
+    <footer>
+      <div>
+        <h3>VerdeVivo</h3>
+        <p>Seu marketplace naturalista de tecnologia consciente.</p>
+      </div>
+      <div>
+        <h4>Ajuda</h4>
+        <ul>
+          <li>Central de atendimento</li>
+          <li>Política de devoluções</li>
+          <li>Garantia estendida</li>
+        </ul>
+      </div>
+      <div>
+        <h4>Institucional</h4>
+        <ul>
+          <li>Sobre nós</li>
+          <li>Programa verde</li>
+          <li>Trabalhe conosco</li>
+        </ul>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
