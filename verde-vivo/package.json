@@ -1,0 +1,14 @@
+{
+  "name": "mrjhon-electroshop",
+  "version": "1.0.0",
+  "description": "Full stack ecommerce demo for electronics with naturalistic green design.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
