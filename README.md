@@ -1,43 +1,100 @@
-# João Azevedo
+<div align="center">
 
-**Computer Engineering Student | Full-Stack Development | AI Engineering**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0b3b64,100:00b8d9&height=190&section=header&text=Jo%C3%A3o%20Azevedo&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20AI&descAlignY=60&animation=fadeIn" width="100%" alt="João Azevedo — Computer Engineering, Software Development and AI" />
 
-I'm a Computer Engineering undergraduate at the State University of Amazonas (UEA), Brazil, and a research scholarship holder at **Laboratório Mais Acesso**, where I work with technology and accessibility.
+<a href="https://github.com/mrJoao28"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=48&lines=Building+useful+software;Full-stack+%26+backend+development;AI+engineering+%26+developer+tools;Technology+that+includes+everyone" alt="Animated introduction: software, full-stack, AI and accessibility" /></a>
 
-I build practical software across web applications, backend services, developer tooling, and AI-assisted workflows. I enjoy turning complex ideas into maintainable products, with an emphasis on usability, reliability, and inclusive design.
+**Computer Engineering undergraduate at UEA · Research scholarship holder at Laboratório Mais Acesso**
 
-### What I work with
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrJoao28)
+[![Projects](https://img.shields.io/badge/Projects-Featured%20repositories-0369a1?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
 
-- **Languages:** TypeScript, JavaScript, Python, C, Java
-- **Web & backend:** React, Next.js, Node.js, REST APIs
-- **Data & infrastructure:** PostgreSQL, Prisma, Docker, GitHub Actions
-- **Interests:** AI engineering, developer experience, accessibility, software architecture
-
-### Selected projects
-
-| Project | Focus |
-| --- | --- |
-| [AgentMetrics AI](https://github.com/mrJoao28/AgentMetrics-AI) | AI-oriented software project with an emphasis on engineering workflows and CI |
-| [My-Code-Agent](https://github.com/mrJoao28/My-Code-Agent) | TypeScript-based coding agent and developer tooling |
-| [Computer Lab](https://github.com/mrJoao28/Computer-Lab) | Interactive computer systems learning environment |
-| [Financial](https://github.com/mrJoao28/financial) | Financial web application and data visualization |
-| [CRUD Spring Java](https://github.com/mrJoao28/CRUD-Spring-JAVA) | Backend development with Java and Spring |
-
-Explore the repositories for architecture, implementation details, and current project status.
-
-### Experience & education
-
-**Research Scholarship Holder — Laboratório Mais Acesso**  
-Working with assistive technology, platform development, and technical support for inclusive digital experiences.
-
-**B.Sc. in Computer Engineering — Universidade do Estado do Amazonas (UEA)**  
-Undergraduate student, Brazil.
-
-### Let's connect
-
-- [GitHub](https://github.com/mrJoao28)
-- Open to conversations about internships, collaborative projects, full-stack engineering, and AI.
+</div>
 
 ---
 
-*Building useful software, learning continuously, and making technology more accessible.*
+## About me
+
+I'm **João Azevedo**, a Computer Engineering undergraduate at the **Universidade do Estado do Amazonas (UEA)** in Brazil. I work as a **research scholarship holder at Laboratório Mais Acesso**, contributing to technology and accessibility initiatives.
+
+I build web applications, backend services, AI-assisted tools, and developer-focused products. My priorities are **clean architecture, maintainability, performance, accessibility, and practical impact**.
+
+- **Currently exploring:** AI engineering, developer tools, software architecture, and production-ready web applications
+- **Experience:** Research and assistive technology, web platform development, and technical mentoring
+- **Open to:** Software engineering internships, research collaborations, and open-source contributions
+
+## Tech stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c&theme=dark" alt="TypeScript, JavaScript, Python, Java, C" />
+
+**Frontend & backend**
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,html,css&theme=dark" alt="Next.js, React, Node.js, Express, HTML, CSS" />
+
+**Data, infrastructure & tooling**
+
+<img src="https://skillicons.dev/icons?i=postgres,prisma,docker,git,github,githubactions,linux&theme=dark" alt="PostgreSQL, Prisma, Docker, Git, GitHub, GitHub Actions, Linux" />
+
+</div>
+
+## Featured projects
+
+| Project | What it demonstrates | Focus |
+| :--- | :--- | :--- |
+| **[AgentMetrics AI](https://github.com/mrJoao28/AgentMetrics-AI)** | AI-focused engineering project, development workflows and CI | AI · Engineering |
+| **[My-Code-Agent](https://github.com/mrJoao28/My-Code-Agent)** | TypeScript coding agent and developer tooling | TypeScript · Agents |
+| **[Computer Lab](https://github.com/mrJoao28/Computer-Lab)** | Interactive environment for exploring computer systems | Web · Education |
+| **[Financial](https://github.com/mrJoao28/financial)** | Financial application and data visualization | Full Stack · Data |
+| **[CRUD Spring Java](https://github.com/mrJoao28/CRUD-Spring-JAVA)** | Java backend and CRUD application development | Java · Spring |
+
+> Each repository is a work in progress or a learning milestone. Visit its README, source code, and commit history for implementation details and current status.
+
+## Experience & education
+
+**Research Scholarship Holder — Laboratório Mais Acesso**  
+*Universidade do Estado do Amazonas*
+
+Working on technology and accessibility initiatives, with experience in web platform maintenance, assistive technologies, and technical guidance.
+
+**B.Sc. in Computer Engineering — UEA**  
+*Undergraduate · Manaus, Brazil*
+
+Building a foundation in computing, programming, mathematical modeling, and engineering.
+
+## Engineering principles
+
+```text
+01  Build for real users       → accessibility and usability
+02  Design for maintainability → readable code and clear architecture
+03  Validate continuously     → testing, reviews and CI
+04  Keep learning             → experimentation and open-source work
+```
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrJoao28&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&icon_color=22d3ee&include_all_commits=true" alt="GitHub activity statistics for mrJoao28" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrJoao28&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1&langs_count=6" alt="Most-used languages in public GitHub repositories" height="165" />
+
+</div>
+
+<sub>Statistics are generated by third-party services and may occasionally be unavailable or delayed. Language charts reflect repository code, not a measure of proficiency.</sub>
+
+## Connect
+
+I'm interested in **software engineering internships**, **AI engineering**, and building technology with meaningful impact.
+
+**[Explore my repositories](https://github.com/mrJoao28?tab=repositories)** · **[Follow on GitHub](https://github.com/mrJoao28)**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0b3b64,100:00b8d9&height=95&section=footer" width="100%" alt="" />
+
+<sub>Designed for clarity, accessibility, and fast scanning by recruiters.</sub>
+
+</div>
